@@ -1,0 +1,9 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "description": "dfdsfsdfs",
+  "main": "src/index.js",
+  "author": "Shrink",
+  "license": "MIT",
+  "private": false
+}
